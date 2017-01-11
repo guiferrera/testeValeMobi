@@ -1,0 +1,13 @@
+body { font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+
+header {position: relative;}
+header h1{ text-align: center; border-bottom: solid 1px; }
+
+section .painel { text-align:center; margin: 150px 0 150px 0; padding: 25px 0 25px 0; border: solid 1px; background-color: #c6c6c6;}
+.cadastro{ margin-bottom: 20px;}
+#cadastrar{margin-top: 20px;}
+section #logar {margin: 15px;}
+
+.container {margin: 0 auto; width: 940px;}
+
+footer {border-top: solid 1px; border-bottom: solid 1px; margin-top: 20px; padding:20px 0; text-align:center; clear: both; position: relative; background-color: #dcdcdc;}
